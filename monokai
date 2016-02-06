@@ -1,0 +1,30 @@
+# Based on Cris Kempson Monokai
+# /usr/share/radare2/x.x.x/cons/monokai
+#
+# liara - (c) wtfpl
+
+ec fname rgb:6de
+ec label rgb:ae2
+ec math rgb:f91
+ec bin rgb:fff
+ec call rgb:f27
+ec jmp rgb:6de
+ec cjmp rgb:6de
+ec offset rgb:6de
+ec comment rgb:775
+ec push rgb:fff
+ec pop rgb:fff
+ec cmp rgb:fff
+ec nop rgb:775
+ec b0x00 rgb:fff
+ec b0x7f rgb:775
+ec b0xff rgb:f27
+ec btext rgb:f91
+ec other rgb:775
+ec num rgb:f27
+ec reg rgb:ae2
+ec fline rgb:f27
+ec flow rgb:ae2
+ec mov rgb:fff
+ec prompt rgb:6de
+ec flag rgb:f27

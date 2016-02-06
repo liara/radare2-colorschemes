@@ -1,0 +1,30 @@
+# Based on whatyouhide gotham, kinda
+# /usr/share/radare2/x.x.x/cons/gotham
+#
+# liara - (c) wtfpl
+
+ec fname rgb:f00
+ec label rgb:2a8
+ec math rgb:c32
+ec bin rgb:fff
+ec call rgb:c32
+ec jmp rgb:f00
+ec cjmp rgb:f00
+ec offset rgb:669
+ec comment rgb:156
+ec push rgb:fff
+ec pop rgb:fff
+ec cmp rgb:fff
+ec nop rgb:88a
+ec b0x00 rgb:fff
+ec b0x7f rgb:256
+ec b0xff rgb:c32
+ec btext rgb:3b6
+ec other rgb:3b6
+ec num rgb:7fd
+ec reg rgb:0cf
+ec fline rgb:c32
+ec flow rgb:2a8
+ec mov rgb:fff
+ec prompt rgb:669
+ec flag rgb:c32

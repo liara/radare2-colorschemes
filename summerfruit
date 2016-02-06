@@ -1,0 +1,30 @@
+# Based on Cris Kempson Base16 Summerfruit
+# /usr/share/radare2/x.x.x/cons/summerfruit
+#
+# liara - (c) wtfpl
+
+ec fname rgb:f08
+ec label rgb:0c1
+ec math rgb:aa0
+ec bin rgb:fff
+ec call rgb:f08
+ec jmp rgb:0c1
+ec cjmp rgb:0c1
+ec offset rgb:0c1
+ec comment rgb:1aa
+ec pop rgb:a0a
+ec push rgb:a0a
+ec cmp rgb:fff
+ec nop rgb:555
+ec b0x00 rgb:0c1
+ec b0x7f rgb:fff
+ec b0xff rgb:f08
+ec btext rgb:fff
+ec other rgb:fff
+ec num rgb:aa0
+ec reg rgb:1aa
+ec fline rgb:a0a
+ec flow rgb:0c1
+ec mov rgb:fff
+ec prompt rgb:aa0
+ec flag rgb:1aa
